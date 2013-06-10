@@ -11,7 +11,7 @@ int main()
 	*/
 
 	#include "loopstart.h"
-		#define LOOP_END 10
+		#define LOOP_END 100
 		#define MACRO(x) printf("%d\n", x);
 	#include "loop.h"
 	
