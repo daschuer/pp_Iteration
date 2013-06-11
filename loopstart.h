@@ -1,3 +1,6 @@
+#ifdef LOOP_START
+#undef LOOP_START
+#endif
 #define LOOP_START 0
 #define LOOP_MAX 100
 
